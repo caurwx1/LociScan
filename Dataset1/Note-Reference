@@ -1,4 +1,7 @@
-references:
+Note:
+The datasets in ssr72-sorghum103.csv [1], ssr509-wheat250.csv [2], snp3072-maize93.csv [3], snp1311-rice387.csv [4] are from the following references.
+
+References:
 1. Casa AM, Mitchell SE, Hamblin MT et al. Diversity and selection in sorghum: simultaneous analyses using simple sequence repeats, THEORETICAL AND APPLIED GENETICS 2005;111:23-30.
 2. Hao C, Wang L, Ge H et al. Genetic diversity and linkage disequilibrium in Chinese bread wheat (Triticum aestivum L.) revealed by SSR markers, PLoS One 2011;6:e17279.
 3. Tian H, Wang F, Zhao J et al. Development of maizeSNP3072, a high-throughput compatible SNP array, for DNA fingerprinting identification of Chinese maize varieties, MOLECULAR BREEDING 2015;35.
