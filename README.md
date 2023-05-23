@@ -5,7 +5,7 @@ LociScan V2.0 is developed under the framework of .Net Framework 4.0, and the so
 For details about how to operate the software, see the user manual file.
 
 ```diff
-LociScan V2.0 Manual.pdf or LociScan V2.0 用户手册.pdf
+LociScan V2.0 Manual.pdf
 ```
 
 ## 2. Citation
