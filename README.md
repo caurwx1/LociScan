@@ -9,7 +9,7 @@ LociScan V2.0 Manual.pdf
 ```
 
 ## 2. Citation
-Please see and cite our paper: Yang Y, Tian HL, Yi HM, etl. LociScan: A Loci Combination Screening Tool For Plant Variety Discrimination Journal to be determined
+Please see and cite our paper: Yang Y, Tian HL, Yi HM, etl. LociScan: A Loci Combination Screening Tool For Plant Variety Discrimination. Journal to be determined
 
 ## 3. Contact Us
 For permission or any technical questions, please email to:
